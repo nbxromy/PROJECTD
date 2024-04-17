@@ -1,0 +1,14 @@
+d:\CODE\PROJECTD\PROJECTD\bin\Debug\net8.0\PROJECTD.exe
+d:\CODE\PROJECTD\PROJECTD\bin\Debug\net8.0\PROJECTD.deps.json
+d:\CODE\PROJECTD\PROJECTD\bin\Debug\net8.0\PROJECTD.runtimeconfig.json
+d:\CODE\PROJECTD\PROJECTD\bin\Debug\net8.0\PROJECTD.dll
+d:\CODE\PROJECTD\PROJECTD\bin\Debug\net8.0\PROJECTD.pdb
+d:\CODE\PROJECTD\PROJECTD\obj\Debug\net8.0\PROJECTD.GeneratedMSBuildEditorConfig.editorconfig
+d:\CODE\PROJECTD\PROJECTD\obj\Debug\net8.0\PROJECTD.AssemblyInfoInputs.cache
+d:\CODE\PROJECTD\PROJECTD\obj\Debug\net8.0\PROJECTD.AssemblyInfo.cs
+d:\CODE\PROJECTD\PROJECTD\obj\Debug\net8.0\PROJECTD.csproj.CoreCompileInputs.cache
+d:\CODE\PROJECTD\PROJECTD\obj\Debug\net8.0\PROJECTD.dll
+d:\CODE\PROJECTD\PROJECTD\obj\Debug\net8.0\refint\PROJECTD.dll
+d:\CODE\PROJECTD\PROJECTD\obj\Debug\net8.0\PROJECTD.pdb
+d:\CODE\PROJECTD\PROJECTD\obj\Debug\net8.0\PROJECTD.genruntimeconfig.cache
+d:\CODE\PROJECTD\PROJECTD\obj\Debug\net8.0\ref\PROJECTD.dll
